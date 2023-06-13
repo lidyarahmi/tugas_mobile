@@ -1,1 +1,1 @@
-# tugas_mobile
+# tugas_mobile retrofit, moshi, dan glide
